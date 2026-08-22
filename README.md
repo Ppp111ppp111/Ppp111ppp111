@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,60:302b63,100:0f0c29&height=160&section=header&text=Pradip%20Giri&fontSize=56&fontColor=fff&fontAlignY=42&desc=Full%20Stack%20%26%20AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20MCP&descAlignY=65&descColor=a78bfa&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,60:302b63,100:0f0c29&height=160&section=header&text=Pradip%20Giri&fontSize=56&fontColor=fff&fontAlignY=42&desc=Full%20Stack%20SDE%20%7C%20AI%20Applications%20%7C%20Distributed%20Systems&descAlignY=65&descColor=a78bfa&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -45,6 +45,8 @@ Modular REST + MCP architecture enabling reusable AI integrations and maintainab
 
 `LangGraph` `Node.js` `PostgreSQL` `MCP SDK` `Render`
 
+`✅ Explainable underwriting workflows` `✅ Modular REST + MCP architecture` `✅ Scalable fintech credit decisions`
+
 ---
 
 ### ⚙️ Sun2Agent CLI Agent — *[GitHub](https://github.com/Ppp111ppp111/Sun2Agent) · [npm Package](https://www.npmjs.com/package/sun2agent)*
@@ -54,6 +56,8 @@ Native MCP client with dynamic tool discovery, remote server connections, and to
 Ships with layered security guardrails and observability, built for real agent workflows — not just demos.
 
 `LangGraph` `Commander.js` `Model Context Protocol` `Node.js`
+
+`✅ Published on npm` `✅ Dynamic tool discovery` `✅ Layered security guardrails`
 
 ---
 
@@ -74,6 +78,7 @@ Powers autonomous research pipelines using NVIDIA NIM LLMs and Tavily Search to 
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -108,6 +113,10 @@ Powers autonomous research pipelines using NVIDIA NIM LLMs and Tavily Search to 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B35?style=flat-square&logo=buffer&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-5A67D8?style=flat-square&logo=anthropic&logoColor=white)
+![A2A](https://img.shields.io/badge/A2A_Protocol-5A67D8?style=flat-square&logo=googlecloud&logoColor=white)
+![Sandbox](https://img.shields.io/badge/Sandboxing-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Mem0](https://img.shields.io/badge/Mem0-FF6B35?style=flat-square&logo=buffer&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![CopilotKit](https://img.shields.io/badge/CopilotKit-000000?style=flat-square&logo=react&logoColor=white)
 
@@ -118,7 +127,7 @@ Powers autonomous research pipelines using NVIDIA NIM LLMs and Tavily Search to 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
