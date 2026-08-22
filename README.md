@@ -20,7 +20,7 @@
 [![Email](https://img.shields.io/badge/Email%20Me-giripradip244%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giripradip244@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradip-giri-68b685263/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ppp111ppp111)
-[![npm](https://img.shields.io/badge/npm-sun2agent-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/sun2agent)
+[![npm](https://img.shields.io/npm/dm/sun2agent?style=for-the-badge&color=CB3837&logo=npm&label=sun2agent%20downloads%2Fmo)](https://www.npmjs.com/package/sun2agent)
 
 </div>
 
@@ -30,8 +30,8 @@
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| **10+** | **40%** | **30%** | **4** |
-| Full stack features & production apps deployed | Reduction in manual task execution via agentic AI workflows | Faster module performance from query optimization | Software/AI engineering internships completed |
+| **10+** | **1.2k+** | **40%** | **4** |
+| Full stack features & production apps deployed | Monthly npm downloads of Sun2Agent CLI | Reduction in manual task execution via agentic AI workflows | Software/AI engineering internships completed |
 
 ---
 
@@ -51,13 +51,17 @@ Modular REST + MCP architecture enabling reusable AI integrations and maintainab
 
 ### ⚙️ Sun2Agent CLI Agent — *[GitHub](https://github.com/Ppp111ppp111/Sun2Agent) · [npm Package](https://www.npmjs.com/package/sun2agent)*
 
-Open-source terminal-based AI agent and MCP client published on npm for developer productivity workflows.
+Open-source terminal-based AI agent and MCP client published on npm for developer productivity workflows — **1.2k+ downloads/month, 400+ weekly installs**.
 Native MCP client with dynamic tool discovery, remote server connections, and tool execution across stdio/HTTP/SSE.
-Ships with layered security guardrails and observability, built for real agent workflows — not just demos.
+Ships with 5 layers of security guardrails, an optional Docker sandbox, and LangSmith observability, built for real agent workflows — not just demos.
+
+![npm version](https://img.shields.io/npm/v/sun2agent?style=flat-square&color=CB3837&logo=npm&label=version)
+![npm downloads](https://img.shields.io/npm/dm/sun2agent?style=flat-square&color=CB3837&logo=npm&label=downloads)
+![license](https://img.shields.io/npm/l/sun2agent?style=flat-square&color=blue)
 
 `LangGraph` `Commander.js` `Model Context Protocol` `Node.js`
 
-`✅ Published on npm` `✅ Dynamic tool discovery` `✅ Layered security guardrails`
+`✅ 1.2k+ downloads/month` `✅ 5-layer security guardrails` `✅ Docker sandbox + LangSmith observability`
 
 ---
 
