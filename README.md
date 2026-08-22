@@ -9,13 +9,13 @@
 
 ## I build full-stack apps and agentic AI systems that ship, not just demo.
 
-> Full Stack & AI Engineer pursuing a B.Tech in Computer Science (2027), with four software/AI engineering internships and 10+ deployed production applications.
-> Focused on **Agentic AI, RAG pipelines, and multi-agent systems** using LangChain, LangGraph, and the Model Context Protocol.
-> Based in **Gurugram, Haryana, India** — open to remote roles.
+> **Full Stack & AI Engineer**, Building **Agentic AI Harness Systems with Sun2Agent**. Work as an AI Intern at **Veids Pvt. Ltd.**, building **RAG pipelines and autonomous agents for
+> healthcare products and business workflows**. Learning **Agentic AI architecture & infrastructure and distributed systems**, with a tech stack including 
+>  TypeScript,JavaScript,Node.js, React.js, PostgreSQL, LangGraph, AWS, and LLMs etc.Currently based in **Gurugram, Haryana** — open to remote or relocation.
 
 <div align="center">
 
-### 🟢 Actively open to Full Stack / AI Engineer roles
+### 🟢 Actively open to Full Stack SDE / AI Engineer / Backend roles
 
 [![Email](https://img.shields.io/badge/Email%20Me-giripradip244%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giripradip244@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradip-giri-68b685263/)
@@ -30,24 +30,12 @@
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| **10+** | **1.2k+** | **40%** | **4** |
+| **13+** | **1.2k+** | **40%** | **4** |
 | Full stack features & production apps deployed | Monthly npm downloads of Sun2Agent CLI | Reduction in manual task execution via agentic AI workflows | Software/AI engineering internships completed |
 
 ---
 
 ## Projects worth looking at
-
-### 🧠 LoanRiskLens MCP Server — *[GitHub](https://github.com/Ppp111ppp111/LoanRiskLens_MCP) · [Live Demo](https://www.loom.com/share/6c7b43457ee04bbfbfcff650feb6ff6e)*
-
-AI-powered alternative credit intelligence platform built with Node.js, PostgreSQL, and LangGraph.
-Automates explainable underwriting workflows using financial behavior analysis for scalable fintech credit decisions.
-Modular REST + MCP architecture enabling reusable AI integrations and maintainable backend services.
-
-`LangGraph` `Node.js` `PostgreSQL` `MCP SDK` `Render`
-
-`✅ Explainable underwriting workflows` `✅ Modular REST + MCP architecture` `✅ Scalable fintech credit decisions`
-
----
 
 ### ⚙️ Sun2Agent CLI Agent — *[GitHub](https://github.com/Ppp111ppp111/Sun2Agent) · [npm Package](https://www.npmjs.com/package/sun2agent)*
 
@@ -62,6 +50,18 @@ Ships with 5 layers of security guardrails, an optional Docker sandbox, and Lang
 `LangGraph` `Commander.js` `Model Context Protocol` `Node.js`
 
 `✅ 1.2k+ downloads/month` `✅ 5-layer security guardrails` `✅ Docker sandbox + LangSmith observability`
+
+---
+
+### 🧠 LoanRiskLens MCP Server — *[GitHub](https://github.com/Ppp111ppp111/LoanRiskLens_MCP) · [Live Demo](https://www.loom.com/share/6c7b43457ee04bbfbfcff650feb6ff6e)*
+
+AI-powered alternative credit intelligence platform built with Node.js, PostgreSQL, and LangGraph.
+Automates explainable underwriting workflows using financial behavior analysis for scalable fintech credit decisions.
+Modular REST + MCP architecture enabling reusable AI integrations and maintainable backend services.
+
+`LangGraph` `Node.js` `PostgreSQL` `MCP SDK` `Render`
+
+`✅ Explainable underwriting workflows` `✅ Modular REST + MCP architecture` `✅ Scalable fintech credit decisions`
 
 ---
 
@@ -120,6 +120,8 @@ Powers autonomous research pipelines using NVIDIA NIM LLMs and Tavily Search to 
 ![A2A](https://img.shields.io/badge/A2A_Protocol-5A67D8?style=flat-square&logo=googlecloud&logoColor=white)
 ![Sandbox](https://img.shields.io/badge/Sandboxing-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Mem0](https://img.shields.io/badge/Mem0-FF6B35?style=flat-square&logo=buffer&logoColor=white)
+![AI Security](https://img.shields.io/badge/AI_%2F_LLM_Security-000000?style=flat-square&logo=shieldsdotio&logoColor=white)
+![Guardrails AI](https://img.shields.io/badge/Guardrails_AI-16A34A?style=flat-square&logo=shieldsdotio&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![CopilotKit](https://img.shields.io/badge/CopilotKit-000000?style=flat-square&logo=react&logoColor=white)
