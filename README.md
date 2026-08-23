@@ -151,6 +151,7 @@ Powers autonomous research pipelines using NVIDIA NIM LLMs and Tavily Search to 
   <img src="https://streak-stats.demolab.com/?user=Ppp111ppp111&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="170"/>
 </div>
 
+[![An image of @ppp111ppp111's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ppp111ppp111)](https://holopin.io/@ppp111ppp111)
 ---
 
 ## Quick profile
